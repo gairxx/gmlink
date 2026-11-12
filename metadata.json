@@ -1,0 +1,6 @@
+{
+  "name": "GMLAN ProLink - GM OBD-II Vehicle Diagnostic & Telemetry Suite",
+  "description": "Modular automotive engineering diagnostic, live telemetry, and bidirectional control platform for General Motors vehicles running Single-Wire and High-Speed GMLAN/CAN architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
